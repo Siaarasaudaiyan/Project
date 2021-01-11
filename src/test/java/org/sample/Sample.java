@@ -8,8 +8,9 @@ public class Sample   {
 	 System.out.println("selenium");
 	 int a=10;
 	 int b=20;
+	 System.out.println("Program");
 	int  c=a+b;
 	System.out.println(c);
-	 System.out.println("Program");
+	 
 }
 }
